@@ -4,3 +4,5 @@
 - a partir do arquivo .travis.yml a plataforma https://www.travis-ci.com/ se conecta com o repositorio e valida cada mudança que é mandada para o repositorio do github.
 Printscreens da visão geral de Pipelines falhando e passando:
 ![brancches](https://user-images.githubusercontent.com/33674561/201332418-6544974d-b40c-460b-8a46-23af61cdc46f.jpg)
+pode ver outros builds em: https://app.travis-ci.com/github/brendapc/React-TDD-Clean-Architecture-SOLID-and-Patterns/builds/234481506
+## Vídeo explicando a ferramenta: https://youtu.be/jPEUlO9h7Vg
